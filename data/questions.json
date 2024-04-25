@@ -1,0 +1,129 @@
+{
+  "questions": [
+    {
+      "question": "What does CSS stand for in web development?",
+      "options": [
+        "Cascading Style Sheets",
+        "Creative Style Solutions",
+        "Computer Style System",
+        "Coding Style Standards"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which HTML tag is used to define an unordered list?",
+      "options": ["<ol>", "<dl>", "<li>", "<ul>"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which programming language is primarily used for front-end web development?",
+      "options": ["Python", "Java", "HTML", "JavaScript"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the correct way to comment out code in JavaScript?",
+      "options": [
+        "// This is a comment",
+        "<!-- This is a comment -->",
+        "# This is a comment",
+        "/* This is a comment */"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which symbol is used for jQuery?",
+      "options": ["$", "&", "@", "#"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What does AJAX stand for?",
+      "options": [
+        "Asynchronous JavaScript and XML",
+        "Advanced JavaScript and XML",
+        "Asynchronous JSON and XML",
+        "Advanced JSON and XML"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which CSS property is used to control the spacing between elements?",
+      "options": ["margin", "padding", "border", "spacing"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What does API stand for in web development?",
+      "options": [
+        "Advanced Programming Interface",
+        "Application Protocol Interface",
+        "Application Programming Interface",
+        "Advanced Protocol Interface"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of the following is NOT a valid data type in JavaScript?",
+      "options": ["number", "string", "boolean", "array"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the 'defer' attribute in a script tag?",
+      "options": [
+        "It loads the script asynchronously",
+        "It delays the script execution until the page has finished parsing",
+        "It prevents the script from executing",
+        "It specifies an external script file"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which event occurs when the user clicks on an HTML element?",
+      "options": ["onmouseover", "onchange", "onclick", "onselect"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which method is used to remove the last element from an array in JavaScript?",
+      "options": ["pop()", "push()", "shift()", "unshift()"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the 'this' keyword in JavaScript?",
+      "options": [
+        "To refer to the current object",
+        "To declare a variable",
+        "To define a function",
+        "To iterate over an array"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which method is used to send data to a web server in JavaScript?",
+      "options": ["GET", "POST", "PUT", "DELETE"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the 'querySelector' method in JavaScript?",
+      "options": [
+        "To select the first element that matches a specified CSS selector",
+        "To select all elements that match a specified CSS selector",
+        "To select the parent element of a specified element",
+        "To select the next sibling of a specified element"
+      ],
+      "correctOption": 0,
+      "points": 10
+    }
+  ]
+}
